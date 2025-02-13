@@ -32,7 +32,7 @@ def vehicle_info(vehicle):
 
 
 car = Car("Toyota", "Camry", 4)
-bike = Bike("Yamaha", "MT-07", True)
+bike = Bike("Yamaha","w06", True)
 
 
 vehicle_info(car)
